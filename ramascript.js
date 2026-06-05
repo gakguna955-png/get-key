@@ -9,10 +9,10 @@
   // CREDIT: @RAMA_MODZ
   // CREDIT: @RAMA_MODZ
   // CREDIT: @RAMA_MODZ
-  const _0x5e548e = {
-    k: "https://raw.githubusercontent.com/yuhb8756-lab/RAMA-MODZ-KEY/main/key.txt",
-    r: "https://raw.githubusercontent.com/yuhb8756-lab/RAMA-MODZ-DOMAIN/main/ramamodz.txt",
-    t: "https://raw.githubusercontent.com/yuhb8756-lab/RAMA-MODZ-BUTTON/main/button.txt",
+ const _0x5e548e = {
+    k: "https://raw.githubusercontent.com/gakguna955-png/get-key/main/key.txt",
+    r: "https://raw.githubusercontent.com/gakguna955-png/get-key/main/ramamodz.txt",
+    t: "https://raw.githubusercontent.com/gakguna955-png/get-key/main/button.txt",
     s: "position:fixed;top:50%;left:50%;transform:translate(-50%,-50%);background:#02040a;color:#fff;padding:25px;border-radius:12px;z-index:2147483647;font-family:sans-serif;text-align:center;box-shadow:0 10px 30px rgba(0,0,0,0.8);border:2px solid #00ffcc;width:280px;box-sizing:border-box;"
   };
 
